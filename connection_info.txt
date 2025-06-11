@@ -1,0 +1,7 @@
+SQL Server:
+  Server: DESKTOP-5C8R695\SQLSERVER2019_17
+  Database: GamingBIp
+  Authentication: Windows Authentication
+
+Jupyter:
+  C:\GamingBIP\Python\GamingBI_Analysis_Final.ipynb

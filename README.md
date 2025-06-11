@@ -7,7 +7,10 @@ This BI project analyzes global video game sales across various platforms, genre
 ## 📊 Project Overview
 
 - **Goal**: Discover insights into video game sales over time and identify the most successful genres, platforms, publishers, and regions.
-- **Data Source**: Cleaned and transformed CSV dataset (based on [vgsales.csv]).
+- **Data Source**: **Data Source**: Based on the public [vgsales.csv](https://www.kaggle.com/datasets/gregorut/videogame-sales-with-ratings) dataset from Kaggle, cleaned and transformed for analysis.
+
+---
+
 - **Tools Used**:
   - Microsoft Power BI (dashboard & visualizations)
   - Microsoft SQL Server (data storage & queries)
@@ -74,6 +77,13 @@ GamingBI-Project/
 - Nintendo and Sony platforms lead overall game sales.
 
 ---
+
+---
+## ✅ Summary
+
+This project demonstrates a full BI workflow: from raw data to business-ready dashboard. It reflects my hands-on skills in SQL, data modeling, data cleaning, and creating interactive visual reports using Power BI.  
+The dashboard offers valuable insights for decision makers in the gaming industry.
+
 
 ## 📬 Contact
 
