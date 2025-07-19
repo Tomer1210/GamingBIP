@@ -9,6 +9,13 @@ This BI project analyzes global video game sales across various platforms, genre
 - **Goal**: Discover insights into video game sales over time and identify the most successful genres, platforms, publishers, and regions.
 - **Data Source**: **Data Source**: Based on the public [vgsales.csv](https://www.kaggle.com/datasets/gregorut/videogame-sales-with-ratings) dataset from Kaggle, cleaned and transformed for analysis.
 
+- ### 📊 Final Dashboard Preview
+
+![Gaming Dashboard Preview](PowerBI/Gaming_Sales_Dashboard_Screenshot.png)
+🔗 [Download Power BI Dashboard (.pbix)](PowerBI/Gaming_Sales_Dashboard.pbix)
+
+
+
 ---
 
 - **Tools Used**:
