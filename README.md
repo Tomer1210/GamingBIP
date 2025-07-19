@@ -12,7 +12,8 @@ This BI project analyzes global video game sales across various platforms, genre
 - ### 📊 Final Dashboard Preview
 
 ![Gaming Dashboard Preview](PowerBI/Gaming_Sales_Dashboard_Screenshot.png)
-[Download Power BI Dashboard (.pbix)](PowerBI/Gaming_Sales_Dashboard.pbix)
+📥 [Download Power BI Dashboard (.pbix)](PowerBI/Gaming_Sales_Dashboard.pbix)
+
 
 
 
